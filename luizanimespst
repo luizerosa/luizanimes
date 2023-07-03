@@ -5,11 +5,12 @@
 
 #EXTINF:-1 tvg-logo="" group-title="", pltv-subgroup="",
 
+
 #################################### TEMPORADA JULHO 2023 ####################################
 
 ###################################### AYAKA ###############################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zvvJbpQ.jpg" group-title="Ayaka",1X1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zvvJbpQ.jpg" group-title="Ayaka",1X1T
 https://www.dropbox.com/s/hy7qjqzdxjjgww4/Ayaka%201.mp4?dl=1
 
 ######################################### ALTELIER RYZA #########################################
@@ -18,14 +19,27 @@ https://www.dropbox.com/s/hy7qjqzdxjjgww4/Ayaka%201.mp4?dl=1
 https://www.dropbox.com/s/jwx3xm6hnlmvzzi/Ryza%20no%20Atelier%201.mp4?dl=1
 
 ####################################### JITSU WA ORE ######################################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mKlcy34.jpg" group-title="Jitsu Wa Ore",1X1
+T
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mKlcy34.jpg" group-title="Jitsu Wa Ore",1X1T
 https://www.dropbox.com/s/q5v7ryhsi4flz2b/Jitsu%20wa%20Ore%201.mp4?dl=1
+
+
+############################# LV1 MAOU ONE ROOM YUUSHA ##############################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SDZbSYF.jpg" group-title="Lv1 Maou One Room Yuusha",1X1T
+https://www.dropbox.com/scl/fi/5tde11osbpd37dgdliaei/Lv1-Maouto-One-Room-Yuusha-1.mp4?rlkey=j7s0netkw45l3eq6ycedsb75s&dl=1
 
 ######################################### MUSHOKU TENSEI ######################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/47kD7c4.jpg" group-title="Mushoku Tensei",0X2T
 https://www.dropbox.com/s/wgydjjkvjydu7hy/Mushoku%20Tensei%20II%200.mp4?dl=1
+
+######################################## OKASHI NA TENSEI ######################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H5RRpdM.jpg" group-title="Okashi na Tensei",1X1T
+https://www.dropbox.com/scl/fi/5oapknx5j34do87du9io0/Okashi-na-Tensei-1.mp4?rlkey=ymn51j681jtdnyypvhdmjslvh&dl=1
+
+
 
 ######################### TEMPORADA BRASIL 2023###############################################3
 
@@ -107,7 +121,6 @@ https://www.dropbox.com/s/ewh37u07s9owywv/Isekai%20One%20Turn%20Kill%20Neesan%20
 https://www.dropbox.com/s/p549qeq03qsqq33/Isekai%20One%20Turn%20Kill%20Neesan%2011.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVnBIsd.jpg" group-title="Isekai One Turn Kill Nee San",1X12
 https://www.dropbox.com/s/dzyury2igxew10u/Isekai%20One%20Turn%20Kill%20Neesan%2012.mp4?dl=1
-
 
 
 ################################## ISAKAI SHOUKAN WA NIDOME DESU #################
@@ -322,7 +335,6 @@ https://www.dropbox.com/s/gz7c5nomivevxgv/The%20Marginal%20Service%2011.mp4?dl=1
 https://www.dropbox.com/s/2wysazq8nll1g0j/The%20Marginal%20Service%2012.mp4?dl=1
 
 
-
 ################################ TENGOKU DAIMAKYOU ###########################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/peQP8ay.jpg" group-title="Tengku Daimakyou",1X1
@@ -437,8 +449,6 @@ https://www.dropbox.com/s/h1c6iqcoik37qmd/Yuusha%20ga%20Shinda%2010.mp4?dl=1
 https://www.dropbox.com/s/p3i6bb53bl79cxp/Yuusha%20ga%20Shinda%2011.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wT1UsSp.jpg" group-title="Yuusha Ga Shinda",1X12
 https://www.dropbox.com/s/696ob0wc1roib11/Yuusha%20ga%20Shinda%2012.mp4?dl=1
-
-
 
 
 COMPLETOS
@@ -599,8 +609,6 @@ https://www.dropbox.com/s/zsljnyyc3jywc3d/Ningen%20Fushin%2011.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZbqWh9.jpg" group-title="Ningen Fushi",1X12
 https://www.dropbox.com/s/qe8h03dopmadk9h/Ningen%20Fushin%2012.mp4?dl=1
 
-
-
 ######################### NOKEMONO TACHI NO YORU ########################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HaNxIL.jpg" group-title="Nokemono Tachi no Yuru",1X1
@@ -631,7 +639,6 @@ https://www.dropbox.com/s/3as3oqrapzlqrvu/Nokemonotachi%20no%20Yoru%2012.mp4?dl=
 https://www.dropbox.com/s/dj9rj4h9onzz05a/Nokemonotachi%20no%20Yoru%2013.mp4?dl=1
 
 ####################################### REVENGER ##########################################
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4dhhip.png" group-title="Revenger",1X1
 https://www.dropbox.com/s/8hzq72zc3s5nypn/Revenger%201.mp4?dl=1
@@ -768,3 +775,8 @@ https://www.dropbox.com/s/tm0r7f5qb2jp3bb/TheLegendofHeroesNorthernWar%2010.mp4?
 https://www.dropbox.com/s/dxs44mj00ea66sq/TheLegendofHeroesNorthernWar%2011.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMS79Vb.jpg" group-title="The Legend of Heroes Northern War",1X12
 https://www.dropbox.com/s/dxs44mj00ea66sq/TheLegendofHeroesNorthernWar%2011.mp4?dl=1
+
+
+#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",
