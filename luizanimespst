@@ -10,22 +10,28 @@
 
 ###################################### AYAKA ###############################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zvvJbpQ.jpg" group-title="Ayaka",1X1T
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zvvJbpQ.jpg" group-title="Ayaka",1X1
 https://www.dropbox.com/scl/fi/urel9dy9yb3ig0ptn1onj/Ayaka-1.mp4?rlkey=z4igwclk6envflkcx75tbffl1&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zvvJbpQ.jpg" group-title="Ayaka",1X2
+https://www.dropbox.com/scl/fi/sevze3z0vk4joxwt6mzxu/Ayaka-2.mp4?rlkey=png8g0xyylyxjv3f74dny0euu&dl=1
 
 ######################################### ALTELIER RYZA #########################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qSHnrJZ.jpg" group-title="Altelier Ryza",1X1T
 https://www.dropbox.com/scl/fi/asqzyxa74ap3s6tc0ylv8/Ryza-no-Atelier-1.mp4?rlkey=lec78c8xnw6b0yxz9tcgjfry3&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qSHnrJZ.jpg" group-title="Altelier Ryza",1X2
+https://www.dropbox.com/scl/fi/cjlam7lirbsniexu7m7zc/Ryza-no-Atelier-2.mp4?rlkey=gbig9s65v9sakx5y6sp8r50fk&dl=1
 
 ######################################### HIGEKI NO GENKYOU ##################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2LZ2EHB.jpg" group-title="Higeki no Genkyou",1X1
 https://www.dropbox.com/scl/fi/lnpa9nw6fvla4zqiglp4z/Higeki-no-Genkyou-to-Naru-Saikyou-Gedou-1.mp4?rlkey=sqfrxn8v711o5gvjpkljeli0s&dl=1
 
 ####################################### JITSU WA ORE ######################################
-T
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mKlcy34.jpg" group-title="Jitsu Wa Ore",1X1T
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mKlcy34.jpg" group-title="Jitsu Wa Ore",1X1
 https://www.dropbox.com/scl/fi/qw3oh365gqrtsrkd7ym0p/Jitsu-wa-Ore-1.mp4?rlkey=4i31l5uhb2uyjaoh2y30z02qw&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mKlcy34.jpg" group-title="Jitsu Wa Ore",1X2
+https://www.dropbox.com/scl/fi/tn76oll4ezxqkk6iskbw0/Jitsu-wa-Ore-2.mp4?rlkey=gaeptvjygonrvzz5l21c7deqm&dl=1
 
 ################################### JUJUTSU KAISEN #################################################################
 
@@ -37,6 +43,19 @@ https://www.dropbox.com/scl/fi/didvyaw4pgjgubuw2pksh/Jujutsu-Kaisen-2-1.mp4?rlke
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDZbSYF.jpg" group-title="Lv1 Maou One Room Yuusha",1X1T
 https://www.dropbox.com/scl/fi/5tde11osbpd37dgdliaei/Lv1-Maouto-One-Room-Yuusha-1.mp4?rlkey=j7s0netkw45l3eq6ycedsb75s&dl=1
+
+###################################### LV1 DAKEDO UNITE SKILL ##############################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZJRSB1.jpg" group-title="Lv1 Dakedo Unique Skill",1X1
+https://www.dropbox.com/scl/fi/jg2c6rusa12kihkg9lhg1/Level-1-dakedo-Unique-Skill-1.mp4?rlkey=7730i0y8jm0v2wrpqa4lggjoc&dl=1
+
+
+############################## LIAR LIAR #######################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PlJbNQr.jpg" group-title="Liar Liar",1X1
+https://www.dropbox.com/scl/fi/355t8kmzfjnfcln8bozne/Liar-Liar-1.mp4?rlkey=pyrdhxvtzy4xa3hghunqbc5pq&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PlJbNQr.jpg" group-title="Liar Liar",1X2
+https://www.dropbox.com/scl/fi/45gyeu54qrhu6gch5jmzf/Liar-Liar-2.mp4?rlkey=nv4qpvnoezpheemw4anabr7p6&dl=1
 
 ######################################### MUSHOKU TENSEI ######################################
 
@@ -63,6 +82,11 @@ https://www.dropbox.com/scl/fi/dfvna7rg81vk4honjx8js/Seija-Musou-Salaryman-1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7I3QU7j.jpg" group-title="Undead Girl Murder Farce",1X1
 https://www.dropbox.com/scl/fi/rfubbcnzjs2gb34kasxvk/Undead-Girl-Murder-Farce-1.mp4?rlkey=c466b2iz8lkdezvngacctvztb&dl=1
+
+################################### ZOBIE 100 ZOMBIE ####################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PnbFytB.jpg" group-title="Zombie 100 Zombie",1X1T
+https://www.dropbox.com/scl/fi/6z31l6e0nlhpu1tjdy4w0/Zom-100-Zombie-1.mp4?rlkey=gxkvdxptoxkv0lpdfk71z1313&dl=1
 
 
 
