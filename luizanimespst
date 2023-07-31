@@ -1,3 +1,4 @@
+
 #EXTM3U
 #PLAYLISTV: pltv-logo="https://i.imgur.com/whgZFX4.jpg" pltv-name="Luiz Animes"
 
@@ -55,6 +56,8 @@ https://www.dropbox.com/scl/fi/cn4jjas8qcv6ckmhpu7zi/Dark-Gathering-1.mp4?rlkey=
 https://www.dropbox.com/scl/fi/gb4775qnj2m5r79ry13wj/Dark-Gathering-2.mp4?rlkey=edxge1m0e8uhuxsyn2y5plliw&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2pxfNHC.jpg" group-title="Dark Gathering",1X3
 https://www.dropbox.com/scl/fi/cswg17pxl1f6edwuma0dd/Dark-Gathering-3.mp4?rlkey=3v5p9r23zfp3139iiceotw9pm&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2pxfNHC.jpg" group-title="Dark Gathering",1X4
+https://www.dropbox.com/scl/fi/gnkoofyub0n0vb0uo8slt/Dark-Gathering-4.mp4?rlkey=lpinohwg1m85ut1ooa5jgw3db&dl=1
 
 ############################ EIYUU KYOUSHITSU #################################################
 
@@ -64,6 +67,8 @@ https://www.dropbox.com/scl/fi/2nps59kfwtw58r9963kie/Eiyuu-Kyoushitsu-1.mp4?rlke
 https://www.dropbox.com/scl/fi/76pkpo7fn0au2bvq0ewje/Eiyuu-Kyoushitsu-2.mp4?rlkey=5wbp3s121iqr2nf9rxn7n30gd&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8dYNGp.jpg" group-title="Eiyuu Kyoushitsu",1X3
 https://www.dropbox.com/scl/fi/1h9ldsc4froktfcngxvyv/Eiyuu-Kyoushitsu-3.mp4?rlkey=ake7tb9c1lnn9zbivfy82slxn&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g8dYNGp.jpg" group-title="Eiyuu Kyoushitsu",1X4
+https://www.dropbox.com/scl/fi/wd6pzncloe233v1hz3o1n/Eiyuu-Kyoushitsu-4.mp4?rlkey=xhzyi3hm63qz80ysynxdzpl6f&dl=1
 
 ######################################### HIGEKI NO GENKYOU ##################################
 
@@ -147,6 +152,8 @@ https://www.dropbox.com/scl/fi/d8n3d26bzr2oe4i5y56u8/Mushoku-Tensei-II-1.mp4?rlk
 https://www.dropbox.com/scl/fi/6o19sz7ydc8xvigifct8r/Mushoku-Tensei-II-2.mp4?rlkey=argjd6flo4mkzxhklr6do30a8&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/47kD7c4.jpg" group-title="Mushoku Tensei",3X2T
 https://www.dropbox.com/scl/fi/mudlr1yvmdyn065a4f860/Mushoku-Tensei-II-3.mp4?rlkey=71nz2al3cimsi2npepf1025rr&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47kD7c4.jpg" group-title="Mushoku Tensei",4X2T
+https://www.dropbox.com/scl/fi/paf5ci37811sdj4dvc9me/Mushoku-Tensei-II-4.mp4?rlkey=s6k84ijfx3phfwpm3lhhpadxt&dl=1
 
 ###################################### NANATSU NO MAKEN #############################################
 
@@ -162,7 +169,7 @@ https://www.dropbox.com/scl/fi/gz8o3gc4ynkm4wus94ftt/Nanatsu-no-Maken-4.mp4?rlke
 
 ######################################## OKASHI NA TENSEI ######################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H5RRpdM.jpg" group-title="Okashi na Tensei",1X1T
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H5RRpdM.jpg" group-title="Okashi na Tensei",1X1
 https://www.dropbox.com/scl/fi/5oapknx5j34do87du9io0/Okashi-na-Tensei-1.mp4?rlkey=ymn51j681jtdnyypvhdmjslvh&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5RRpdM.jpg" group-title="Okashi na Tensei",1X2
 https://www.dropbox.com/scl/fi/t3g9zcgsmf33s5hw0lh5j/Okashi-na-Tensei-2.mp4?rlkey=7wk6xjty6dkdidokaipzvops2&dl=1
@@ -212,8 +219,10 @@ https://www.dropbox.com/scl/fi/rwcercsjqb9xsnlidb3zt/Undead-Girl-Murder-Farce-4.
 https://www.dropbox.com/scl/fi/6z31l6e0nlhpu1tjdy4w0/Zom-100-Zombie-1.mp4?rlkey=gxkvdxptoxkv0lpdfk71z1313&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PnbFytB.jpg" group-title="Zombie 100 Zombie",1X2
 https://www.dropbox.com/scl/fi/4d6mz5w46osxqs3t1wfp2/Zom-100-Zombie-2.mp4?rlkey=2rwbs343n0ioh5ri0eo6tjoef&dl=1
-v#EXTINF:-1 tvg-logo="https://i.imgur.com/PnbFytB.jpg" group-title="Zombie 100 Zombie",1X3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PnbFytB.jpg" group-title="Zombie 100 Zombie",1X3
 https://www.dropbox.com/scl/fi/9g1pj7h7mei2abr7xsnrt/Zom-100-Zombie-3.mp4?rlkey=smgx4fqr6hd47u1gs1ou4z4pb&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PnbFytB.jpg" group-title="Zombie 100 Zombie",1X4
+https://www.dropbox.com/scl/fi/zx72otjf91r1rrppva50g/Zom-100-Zombie-4.mp4?rlkey=bxx0akmqr1rp5uxr15gabvgkb&dl=1
 
 
 
