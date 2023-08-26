@@ -1,3 +1,4 @@
+
 #EXTM3U
 #PLAYLISTV: pltv-logo="https://i.imgur.com/whgZFX4.jpg" pltv-name="Luiz Animes"
 
@@ -64,6 +65,8 @@ https://www.dropbox.com/scl/fi/qmcdzaciupg47vk9eaw1o/Ryza-no-Atelier-6.mp4?rlkey
 https://www.dropbox.com/scl/fi/mrei95czfu3752ykwx0nk/Ryza-no-Atelier-7.mp4?rlkey=499c4kggrzup5jfvzoa7ty863&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qSHnrJZ.jpg" group-title="Altelier Ryza",1X8
 https://www.dropbox.com/scl/fi/2u8dwegjv4trnk8q31e3o/Ryza-no-Atelier-8.mp4?rlkey=t6qzcjdza0mz98dsmgkzqpetp&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qSHnrJZ.jpg" group-title="Altelier Ryza",1X9
+https://www.dropbox.com/scl/fi/ubafk8dmvz873cf6p8awt/Ryza-no-Atelier-9.mp4?rlkey=legenixutp5qzezq3ysbrsrha&dl=1
 
 ############################################ DARK GATHERING ###############################################
 
@@ -115,6 +118,8 @@ https://www.dropbox.com/scl/fi/pchq3jgawratg5ezz57d7/Higeki-no-Genkyou-to-Naru-S
 https://www.dropbox.com/scl/fi/dsq2uxzm05yvggwtfct4t/Higeki-no-Genkyou-to-Naru-Saikyou-Gedou-6.mp4?rlkey=euq07gani6zgd868m0kfkwtfl&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2LZ2EHB.jpg" group-title="Higeki no Genkyou",1X7
 https://www.dropbox.com/scl/fi/y9ejvqrisrcfrg1rw06ie/Higeki-no-Genkyou-to-Naru-Saikyou-Gedou-7.mp4?rlkey=pbr3yzbljbt5baeqe52xv4uyp&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2LZ2EHB.jpg" group-title="Higeki no Genkyou",1X8
+https://www.dropbox.com/scl/fi/fy243r4s8xl28u632a0a9/Higeki-no-Genkyou-to-Naru-Saikyou-Gedou-8.mp4?rlkey=brwc8mt2pmdim25014e0y6t2r&dl=1
 
 ####################################### JITSU WA ORE ######################################
 
@@ -179,6 +184,10 @@ https://www.dropbox.com/scl/fi/c78yx3il3i4k29cf3azr2/Level-1-dakedo-Unique-Skill
 https://www.dropbox.com/scl/fi/6fd31m8ibwu4qonyl049k/Level-1-dakedo-Unique-Skill-5.mp4?rlkey=2g5hza2v339dfy7akr9abxuj2&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZJRSB1.jpg" group-title="Lv1 Dakedo Unique Skill",1X6
 https://www.dropbox.com/scl/fi/1pu9w0ywhrecx1kfpejxt/Level-1-dakedo-Unique-Skill-6.mp4?rlkey=hfp4pglv2ytffzccaozrckoiz&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZJRSB1.jpg" group-title="Lv1 Dakedo Unique Skill",1X7
+https://www.dropbox.com/scl/fi/zbigjfzmh614g0ne0iwo1/Level-1-dakedo-Unique-Skill-7.mp4?rlkey=fl706a03uagz6ptkqmqvre18y&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZJRSB1.jpg" group-title="Lv1 Dakedo Unique Skill",1X8
+https://www.dropbox.com/scl/fi/76sma2ky2ncm1owynr7b4/Level-1-dakedo-Unique-Skill-8.mp4?rlkey=g6hh0njboo3lxsncmexg9akkz&dl=1
 
 
 
@@ -200,6 +209,8 @@ https://www.dropbox.com/scl/fi/rzq78w4s6cqze85g1sbwj/Liar-Liar-6.mp4?rlkey=pzm14
 https://www.dropbox.com/scl/fi/bov066afhb6n4wpfhyq4m/Liar-Liar-7.mp4?rlkey=2muqckvfre9jd36dp15w2k7s4&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlJbNQr.jpg" group-title="Liar Liar",1X8
 https://www.dropbox.com/scl/fi/ojee6cbriyog7fptdme2x/Liar-Liar-8.mp4?rlkey=5tws9b1cnbkagxx8x14uskckg&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PlJbNQr.jpg" group-title="Liar Liar",1X9
+https://www.dropbox.com/scl/fi/kp7uz8nrcestwitlf311j/Liar-Liar-9.mp4?rlkey=8eb1q13t1v6q6zykmfqpdi49b&dl=1
 
 
 ######################################### MUSHOKU TENSEI ######################################
@@ -237,6 +248,8 @@ https://www.dropbox.com/scl/fi/0xx0xzgwyzzhqgywimd3c/Nanatsu-no-Maken-5.mp4?rlke
 https://www.dropbox.com/scl/fi/lmz64p827g8jlulbp09w5/Nanatsu-no-Maken-6.mp4?rlkey=2qqcylew3ypqz13cqvxll4xxq&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1YKRpJL.jpg" group-title="Nanatsu no Maken",1X7
 https://www.dropbox.com/scl/fi/2df2c3g8m4vi4w7mrgp88/Nanatsu-no-Maken-7.mp4?rlkey=zzp4gymi2rfd3ppglgdlpjfl1&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1YKRpJL.jpg" group-title="Nanatsu no Maken",1X8
+https://www.dropbox.com/scl/fi/m3egqlp0yfi34eyggrwdv/Nanatsu-no-Maken-8.mp4?rlkey=hpojkfxo5fk2u922p2ehj2twd&dl=1
 
 
 ######################################## OKASHI NA TENSEI ######################################
@@ -274,6 +287,10 @@ https://www.dropbox.com/scl/fi/yvjcegscock4y1225va6a/Seija-Musou-Salaryman-4.mp4
 https://www.dropbox.com/scl/fi/n6vabge9g8oadq5gil6z2/Seija-Musou-Salaryman-5.mp4?rlkey=urmxojw139hoj003xbx5r0yqt&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chI8ra5.jpg" group-title="Seija Musou",1X6
 https://www.dropbox.com/scl/fi/pmojf5r9in6fh00ocdybx/Seija-Musou-Salaryman-6.mp4?rlkey=vqrmy7ybrywk0qluc64dtdt06&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chI8ra5.jpg" group-title="Seija Musou",1X7
+https://www.dropbox.com/scl/fi/kswcx4eunwu295gs95gth/Seija-Musou-Salaryman-7.mp4?rlkey=nm4c8zyb54u0z9zleiukpdfoz&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chI8ra5.jpg" group-title="Seija Musou",1X8
+https://www.dropbox.com/scl/fi/byr2ssa0auma6a8tfuhn1/Seija-Musou-Salaryman-8.mp4?rlkey=2d7611hjqzs1wfy2xkmw0xsbe&dl=1
 
 ############################################## SYNDUALITY NOIR #####################################################
 
@@ -309,6 +326,8 @@ https://www.dropbox.com/scl/fi/x36vuj734oa3m6pojx381/Undead-Girl-Murder-Farce-5.
 https://www.dropbox.com/scl/fi/anloakhtedx7lho3y2ipc/Undead-Girl-Murder-Farce-6.mp4?rlkey=zlwd1lxqjf69842ze0tgi7fra&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7I3QU7j.jpg" group-title="Undead Girl Murder Farce",1X7
 https://www.dropbox.com/scl/fi/dqe7bjlet35hhxi50x2j0/Undead-Girl-Murder-Farce-7.mp4?rlkey=kzoy4wwp92btyr7mkbzv1yiux&dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7I3QU7j.jpg" group-title="Undead Girl Murder Farce",1X8
+https://www.dropbox.com/scl/fi/f5tnfe21qbh99h1rxudpg/Undead-Girl-Murder-Farce-8.mp4?rlkey=2lk5o37v790ivsrpapd51icp9&dl=1
 
 
 ################################### ZOBIE 100 ZOMBIE ####################################################
